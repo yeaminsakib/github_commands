@@ -142,39 +142,3 @@ git checkout master         # Switch to master/main branch
 git merge branch_name       # Merge the specified branch into current branch
 ```
 
-## MD Crashcourse
-```
-# Markdown Basics
-
-## Headers
-# H1
-## H2
-### H3
-
-## Text Formatting
-**Bold** or __Bold__
-*Italic* or _Italic_
-~~Strikethrough~~
-
-## Lists
-- Unordered item
-- Another item
-
-1. Ordered item
-2. Another item
-
-## Links
-[Link Text](https://example.com)
-
-## Images
-![Alt Text](image-url.jpg)
-
-## Code
-`inline code`
-```code block```
-
-## Tables
-| Header 1 | Header 2 |
-|----------|----------|
-| Cell 1   | Cell 2   |
-```
