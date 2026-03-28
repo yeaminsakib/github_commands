@@ -10,8 +10,8 @@ GitHub -> Folder Host kore rakhe
 ## Git Version & Configuration
 ```bash
 git --version
-git config --global user.name "yeaminsakib"
-git config --global user.email "yeaminsakib@gmail.com"
+git config --global user.name "x"
+git config --global user.email "x@gmail.com"
 git config --list
 
 git config --global user.name "changed name"
@@ -23,7 +23,7 @@ git config --global --unset user.name "name"
 cd ~
 ls -a
 cd .ssh
-.ssh % ssh-keygen -o -t rsa -C "yeaminsakib@gmail.com"
+.ssh % ssh-keygen -o -t rsa -C "x@gmail.com"
 ```
 
 ## Git Folder Create and Pull/Push
