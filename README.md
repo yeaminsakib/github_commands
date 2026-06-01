@@ -1,7 +1,3 @@
-Here is the **complete Markdown file** content you can copy and paste directly into a `.md` file (e.g., `git-crash-course.md`).
-
-Just **copy the entire block below** and save it as any `.md` file:
-
 ```markdown
 # Git & GitHub Crash Course – Step-by-Step Guide
 
